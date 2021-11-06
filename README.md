@@ -8,5 +8,13 @@
 
 
 ## Demo
+ - Step 1 - Run the program
+ <img src="https://github.com/ksalokya/sudoku_game/blob/main/assets/1.png">
+ 
+ - Step 2 - Enter the Sudoku Board to be solved
+ <img src="https://github.com/ksalokya/sudoku_game/blob/main/assets/2.png">
+ 
+ - Step 3 - Voila!
+ <img src="https://github.com/ksalokya/sudoku_game/blob/main/assets/3.png">
 
 
