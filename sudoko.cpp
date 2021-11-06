@@ -124,9 +124,9 @@ bool solveSudoku(int mat[][9], int i, int j) {
 
 int main() {
 
-    cout << "\n======================\n";
-    cout << "    Sudoku Solver\n";
-    cout << "======================\n\n";
+    cout << "\n\t\t======================\n";
+    cout << "\t\t    Sudoku Solver\n";
+    cout << "\t\t======================\n\n";
 
     cout << "Welcome to Sudoku Solver!\n";
     cout << "Before we start, you will have to input the puzzle to be solved.\n\n";
